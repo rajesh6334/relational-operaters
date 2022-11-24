@@ -1,0 +1,10 @@
+#relational operations
+print('enter the values')
+a=int (input())
+b=int (input())
+print('greater than:',a>b)
+print('less than:',a<b)
+print('greater than equal:',a>=b)
+print('less than equal:',a<=b)
+print('equal:',a==b)
+print('not equal:',a!=b)
